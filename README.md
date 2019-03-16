@@ -1,7 +1,7 @@
 # image-prediction-logger
 a tool for  image prediction report
 
-dendencies:
+dependencies:
   tenserflow 
   numpy
   pandas
