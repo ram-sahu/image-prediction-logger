@@ -9,3 +9,4 @@ dependencies:
   h5py
   keras
   open-cv
+  imageai(save models in "models/" as follow up on installing it)
