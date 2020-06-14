@@ -1,5 +1,6 @@
 # image-prediction-logger
-a tool for  image prediction report
+a tool for  image prediction logging in Relational database.
+
 
 dependencies:
   tenserflow 
